@@ -4,7 +4,7 @@ public class ApplicationMain {
 				"Apples",
 				"Bananas",
 				"Corn",
-				"Dog Food",
+				"More Dog Food",
 				"Cereal", 
 				"Bread", 
 				"Eggs",
